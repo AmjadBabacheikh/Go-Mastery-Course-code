@@ -1,0 +1,6 @@
+INFO  2025-07-22 12:00:00  User login successful
+ERROR 2025-07-22 12:01:00  DB connection failed
+WARN  2025-07-22 12:02:00  High memory usage
+ERROR 2025-07-22 12:03:00  Timeout reading from DB
+INFO  2025-07-22 12:04:00  Cache refreshed
+ERROR 2025-07-22 12:05:00  Unknown error occurred
